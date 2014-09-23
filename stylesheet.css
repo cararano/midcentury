@@ -1,0 +1,97 @@
+@import url('http://fonts.googleapis.com/css?family=Libre+Baskerville');
+
+body {
+  margin: 0;
+}
+.page-header {
+  float: left;
+  width: 1000px;
+  margin-top: 10px;
+}
+.page-header img {
+  width: 45%;
+}
+.post-content {
+  width: 600px;
+  display: inline;
+  float: left;
+  margin-left: 0px;
+  margin-bottom: 40px;
+}
+.post-title h1 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 100;
+  font-size: 18px;
+  color: #3f3f3f;
+  margin: 0 auto;
+}
+.post-title img{
+  margin-bottom: 25px;
+}
+.post-content h1, h2, h3, h4 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 100;
+  font-size: 16px;
+  color: #3f3f3f;
+  text-transform: lowercase;
+}
+.post-content p, ol, ul{
+  font-family: Helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 130%;
+  color: #545454;
+}
+.post-content img {
+  max-width: 100%;
+}
+.sidebar {
+  color: #3f3f3f;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 100;
+  font-size: 12px;
+  line-height: 150%;
+  width: 150px;
+  display: inline;
+  float: left;
+  margin-right: 100px;
+  margin-left: 90px;
+}
+.sidebar h1 {
+  font-size: 15px;
+  font-weight: 100;
+  text-transform: lowercase;
+}
+.sidebar img {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+#container {
+  margin: 0 auto;
+  width: 1000px;
+}
+.footer {
+  font-family: Helvetica, sans-serif;
+  font-size: 10px;
+  clear: both;
+  color: #545454;
+  margin-bottom: 25px;
+  margin-left: 340px;
+  width: 600px;
+  text-align: left;
+}
+a:link {
+    text-decoration: none;
+    color: #1BBC9B;
+}
+a:visited {
+    text-decoration: none;
+    color: #1BBC9B;
+}
+/* mouse over link */
+a:hover   {
+    color: #019875;
+}
+/* selected link */
+a:active  {
+    color: #019875;
+}
