@@ -20,5 +20,5 @@ midcentury
 - List of categories
 
 ###Discard
-- Post Author
+- Post Author... maybe mention it in the sidebar but don't put it on every post since it's always the owner who is updating it
 - Calendar for jumping to posts from a specific date
