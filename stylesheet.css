@@ -21,17 +21,18 @@ body {
 .post-title h1 {
   font-family: 'Libre Baskerville', serif;
   font-weight: 100;
-  font-size: 18px;
+  font-size: 20px;
   color: #3f3f3f;
   margin: 0 auto;
+  text-transform: lowercase;
 }
 .post-title img{
-  margin-bottom: 25px;
+  margin-bottom: 15px;
 }
-.post-content h1, h2, h3, h4 {
+.post-content h2 {
   font-family: 'Libre Baskerville', serif;
   font-weight: 100;
-  font-size: 16px;
+  font-size: 15px;
   color: #3f3f3f;
   text-transform: lowercase;
 }
@@ -57,7 +58,7 @@ body {
   margin-left: 90px;
 }
 .sidebar h1 {
-  font-size: 15px;
+  font-size: 14px;
   font-weight: 100;
   text-transform: lowercase;
 }
